@@ -28,5 +28,5 @@ yarn-error.log*
 package-lock.json
 backup.json
 
-# certificate
-ca-certificate.crt*
+# screenshot backup
+/screenshot-backup
